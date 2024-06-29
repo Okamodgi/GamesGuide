@@ -30,5 +30,7 @@ VS
 
 # __Документация__
 https://github.com/Okamodgi/GamesGuide/wiki/01.Техническое-задание
+
 https://github.com/Okamodgi/GamesGuide/wiki/02.Спецификации
+
 https://github.com/Okamodgi/GamesGuide/wiki/03.Функциональные-требования
